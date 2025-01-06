@@ -1,0 +1,56 @@
+{
+  "enable": true,
+  "crateWeightings": {
+    "bigmap": {
+      "Ration supply crate": 1,
+      "Technical supply crate": 6,
+      "Medical supply crate": 2
+    },
+    "factory4_day": {
+      "Ration supply crate": 1,
+      "Technical supply crate": 7,
+      "Medical supply crate": 1
+    },
+    "factory4_night": {
+      "Ration supply crate": 1,
+      "Technical supply crate": 8,
+      "Medical supply crate": 1
+    },
+    "lighthouse": {
+      "Ration supply crate": 2,
+      "Technical supply crate": 5,
+      "Medical supply crate": 1
+    },
+    "rezervbase": {
+      "Ration supply crate": 4,
+      "Technical supply crate": 1,
+      "Medical supply crate": 2
+    },
+    "sandbox": {
+      "Ration supply crate": 1,
+      "Technical supply crate": 7,
+      "Medical supply crate": 1
+    },
+    "sandbox_high": {
+      "Ration supply crate": 1,
+      "Technical supply crate": 7,
+      "Medical supply crate": 1
+    },
+    "shoreline": {
+      "Ration supply crate": 5,
+      "Technical supply crate": 1,
+      "Medical supply crate": 5
+    },
+    "tarkovstreets": {
+      "Ration supply crate": 2,
+      "Technical supply crate": 8,
+      "Medical supply crate": 1
+    },
+    "woods": {
+      "Ration supply crate": 3,
+      "Technical supply crate": 4,
+      "Medical supply crate": 2
+    }
+  },
+  "debug": true
+}
